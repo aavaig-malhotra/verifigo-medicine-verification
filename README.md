@@ -6,7 +6,7 @@ Use this command to install all libraries, find the list of required libraries a
 
 
 ### `npm install`
-Use this command to install all the dependencies, find the list of required dependencies at [requirements](https://github.com/aavaigrocks2001/aavaig-hack-the-crisis/blob/master/requirements.txt)
+Use this command to install all the dependencies, find the list of required dependencies at [requirements](https://github.com/aavaigrocks2001/hack-aavaig/blob/main/hack-the-crisis/requirements.txt)
 
 
 
