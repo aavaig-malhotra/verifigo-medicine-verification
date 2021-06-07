@@ -9,6 +9,12 @@ Use this command to install all libraries, find the list of required libraries a
 Use this command to install all the dependencies, find the list of required dependencies at [requirements](https://github.com/aavaigrocks2001/hack-aavaig/blob/main/hack-the-crisis/requirements.txt)
 
 
+#### Instructions :
+Before you upload an image to firebase please run final reader.py
+
+Scan the following qr code for verification :
+
+
 
 
 ## Available Scripts
