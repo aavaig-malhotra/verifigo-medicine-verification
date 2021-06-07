@@ -1,5 +1,5 @@
 link to deployed webApp : https://verifigo-4e296.firebaseapp.com/ <br />
-link to demo video : https://www.youtube.com/watch?v=bS2K5knm-s0
+link to demo video : https://youtu.be/exkAvfYqDA0
 
 ### `pip install`
 Use this command to install all libraries, find the list of required libraries at [requirements_python](https://github.com/aavaigrocks2001/aavaig-hack-the-crisis/blob/master/image_processing/requirements_python)
