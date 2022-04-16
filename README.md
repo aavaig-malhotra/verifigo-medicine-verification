@@ -1,5 +1,4 @@
-link to demo video : https://youtu.be/exkAvfYqDA0 <br />
-link to presentation : https://youtu.be/Av49MyOcUm8
+link to demo video : https://youtu.be/7d33Xl6GS6M <br />
 
 ### `pip install`
 Use this command to install all libraries, find the list of required libraries at [requirements_python](https://github.com/aavaigrocks2001/hack-aavaig/blob/main/api/requirements_python)
