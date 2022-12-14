@@ -1,5 +1,10 @@
 link to demo video : https://youtu.be/7d33Xl6GS6M <br />
 
+### VERIFIGO
+Verifigo is a medicine verfication and authentication based web application which uses image classifier techniques to distinguish between and original and counterfeit medicine based on percentage match of patient medicine image with a medicine image in the database. It also uses qr code scanner to make it a feature of the future where people can scan qr codes and identify the authenticity of a medicine.
+
+<hr />
+
 ### `pip install`
 Use this command to install all libraries, find the list of required libraries at [requirements_python](https://github.com/aavaigrocks2001/hack-aavaig/blob/main/api/requirements_python)
 
