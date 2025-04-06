@@ -16,9 +16,6 @@ Use this command to install all the dependencies, find the list of required depe
 #### Instructions :
 Before you upload an image to firebase please run final reader.py
 
-Scan the following qr code for verification : <br /> ![qr-code](https://github.com/aavaigrocks2001/hack-aavaig/blob/main/qr.jpeg) <br /><br />
-Right now for verification only images in api/downloads folder work
-
 
 
 
